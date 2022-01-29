@@ -24,6 +24,7 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+<!-- GETTING STARTED -->
 ### Prerequisites
 Required libraries and program versions.
 * pygame
@@ -38,6 +39,7 @@ Required libraries and program versions.
   ```sh
   python.org
   ```
+<!-- ABOUT THE PROJECT -->
 ## Usage
 * Make sure to download the prerequisites!
 * Every game is in its own directory
