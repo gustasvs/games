@@ -1,7 +1,9 @@
+<!-- Title -->
 <br />
 <div align="center">
-  <h1 align="center">My repository for most of my finished && unfinished games</h1>
+  <h3 align="center">My repository for most of my finished && unfinished games</h3>
 </div>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -24,9 +26,10 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
 <!-- GETTING STARTED -->
 ### Prerequisites
-Required libraries and program versions.
+Most of the required python libraries and program versions.
 * pygame
   ```sh
   python3 -m pip install -U pygame --user
@@ -35,11 +38,7 @@ Required libraries and program versions.
   ```sh
   python3 -m pip install -U numpy --user
   ```
-* python 3.6
-  ```sh
-  python.org
-  ```
-<!-- ABOUT THE PROJECT -->
+<!-- HOW TO USE -->
 ## Usage
 * Make sure to download the prerequisites!
 * Every game is in its own directory
@@ -50,7 +49,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTACT ME -->
 ## Contact
-Twitter - https://twitter.com/gustasvs
+Twitter - [@gustasvs][(https://twitter.com/gustasvs)]
 Official email for business inquries - gustasvsofficial@gmail.com
-Youtube - https://www.youtube.com/c/Gustasvs
+Youtube - [@youtube.com/gustasvs][(https://www.youtube.com/c/Gustasvs)]
 <p align="right">(<a href="#top">back to top</a>)</p>
