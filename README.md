@@ -4,15 +4,11 @@
 *** source codes for my(small indie game developer) games
 -->
 
-
-
 <!-- Title -->
 <br />
 <div align="center">
-  <h3 align="center">My games</h3>
+  <h3 align="center">My repository for most of my finished && unfinished games</h3>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -37,48 +33,31 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/c/Gustasvs)
-
-My repository for most of my finished && unfinished games
-
-
-
+My repository for most of my finished && unfinished games.
+[![Not really important youtube link of mine :)][Youtube link]](https://www.youtube.com/c/Gustasvs)
 <!-- GETTING STARTED -->
-
 ### Prerequisites
-
 Most of the required python libraries and program versions.
-* npm
+* pygame
   ```sh
-  npm install npm@latest -g
+  python3 -m pip install -U pygame --user
   ```
-
-
-
+* numpy
+  ```sh
+  python3 -m pip install -U numpy --user
+  ```
 <!-- HOW TO USE -->
 ## Usage
-
-Make sure to download the required python libraries!
-
-
+* Make sure to download the prerequisites!
+* Every game is in its own directory
+* To run the desired game use Main.py
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT ME -->
 ## Contact
-
 Your Name - [@gustasvs](https://twitter.com/gustasvs) - gustasvsofficial@gmail.com
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
