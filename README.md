@@ -45,13 +45,12 @@ Most of the required python libraries and program versions.
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- LICENSE -->
-## Contact me
+## Contact
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
-<!-- CONTACT ME -->
+<!-- CONTACT -->
 ## Contact
-Socials
-* Twitter - https://twitter.com/gustasvs
-* Official email for business inquries - gustasvsofficial@gmail.com
-* Youtube - https://www.youtube.com/c/Gustasvs
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
