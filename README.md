@@ -1,9 +1,3 @@
-# games
-<div id="top"></div>
-<!--
-*** source codes for my(small indie game developer) games
--->
-
 <!-- Title -->
 <br />
 <div align="center">
@@ -33,10 +27,6 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-My repository for most of my finished && unfinished games.
-[![Not really important youtube link of mine :)][Youtube link]](https://www.youtube.com/c/Gustasvs)
 <!-- GETTING STARTED -->
 ### Prerequisites
 Most of the required python libraries and program versions.
@@ -59,5 +49,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTACT ME -->
 ## Contact
-Your Name - [@gustasvs](https://twitter.com/gustasvs) - gustasvsofficial@gmail.com
+Twitter - [@gustasvs][(https://twitter.com/gustasvs)]
+Official email for business inquries - gustasvsofficial@gmail.com
+Youtube - [@youtube.com/gustasvs][(https://www.youtube.com/c/Gustasvs)]
 <p align="right">(<a href="#top">back to top</a>)</p>
