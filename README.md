@@ -1,7 +1,7 @@
 <!-- Title -->
 <br />
 <div align="center">
-  <h3 align="center">My repository for most of my finished && unfinished games</h3>
+  <h1 align="center">My repository for most of my finished && unfinished games</h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,7 +29,7 @@
 
 <!-- GETTING STARTED -->
 ### Prerequisites
-Most of the required python libraries and program versions.
+Required libraries and program versions.
 * pygame
   ```sh
   python3 -m pip install -U pygame --user
@@ -37,6 +37,10 @@ Most of the required python libraries and program versions.
 * numpy
   ```sh
   python3 -m pip install -U numpy --user
+  ```
+* python 3.6
+  ```sh
+  python.org
   ```
 <!-- HOW TO USE -->
 ## Usage
