@@ -23,7 +23,7 @@
 
 <!-- GETTING STARTED -->
 ### Prerequisites
-Most of the required python libraries and program versions.
+Required python libraries and program versions.
 * pygame
   ```sh
   python3 -m pip install -U pygame --user
@@ -31,6 +31,10 @@ Most of the required python libraries and program versions.
 * numpy
   ```sh
   python3 -m pip install -U numpy --user
+  ```
+ * python 3.6
+  ```sh
+  python.org
   ```
 <!-- HOW TO USE -->
 ## Usage
@@ -44,12 +48,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT ME -->
 ## Contact
 
 Your Name - [@gustasvs](https://twitter.com/gustasvs) - gustasvsofficial@gmail.com
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
