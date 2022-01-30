@@ -51,6 +51,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT ME -->
 ## Contact
 
-Your Name - [@gustasvs](https://twitter.com/gustasvs) - gustasvsofficial@gmail.com
+Twitter - [@gustasvs](https://twitter.com/gustasvs)\ Mail for business inquiries - gustasvsofficial@gmail.com \
 
 <p align="right">(<a href="#top">back to top</a>)</p>
