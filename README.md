@@ -9,9 +9,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -42,15 +39,17 @@ Most of the required python libraries and program versions.
 * To run the desired game use Main.py
 <!-- LICENSE -->
 ## License
+
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<!-- LICENSE -->
-## Contact
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-<p align="right">(<a href="#top">back to top</a>)</p>
-<!-- CONTACT -->
+
+
+
+<!-- CONTACT ME -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@gustasvs](https://twitter.com/gustasvs) - gustasvsofficial@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
