@@ -1,5 +1,4 @@
 <!-- Title -->
-<br />
 <div align="center">
   <h1 align="center">My repository for most of my finished && unfinished games</h1>
 </div>
@@ -51,8 +50,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT ME -->
 ## Contact
 
+* Email - gustasvsofficial@gmail.com
 * Twitter - [@gustasvs](https://twitter.com/gustasvs)
-* Mail for business inquiries - gustasvsofficial@gmail.com
-* Youtube channel -[gustasvs](https://www.youtube.com/gustasvs)
+* Youtube - [gustasvs](https://www.youtube.com/gustasvs)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
