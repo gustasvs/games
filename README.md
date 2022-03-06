@@ -1,57 +1,41 @@
 <!-- Title -->
 <div align="center">
-  <h1 align="center">My repository for most of my finished && unfinished games</h1>
+  <h1 align="center">My games</h1>
+</div>
+<div align="center">
+  <h3>A repository of source codes for most of my finished && unfinished games</h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-<!-- GETTING STARTED -->
 ### Prerequisites
-Required python libraries and program versions.
-* pygame
-  ```sh
-  python3 -m pip install -U pygame --user
-  ```
-* numpy
-  ```sh
-  python3 -m pip install -U numpy --user
-  ```
+
+What you will need to run this application
  * python 3.6
-  ```sh
-  python.org
-  ```
+ ```sh
+ https://www.python.org/downloads/
+ ```
+ * pygame
+ ```sh
+ https://pypi.org/project/pygame/
+ ```
+ * numpy
+ ```sh
+ https://pypi.org/project/numpy/
+ ```
+ 
 <!-- HOW TO USE -->
 ## Usage
-* Make sure to download the prerequisites!
-* Every game is in its own directory
-* To run the desired game use Main.py
-<!-- LICENSE -->
+* Install the prerequisites
+* Open the directory of the game you want to play
+* Run main.py
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT ME -->
-## Contact
+## Contact me
 
 * Email - gustasvsofficial@gmail.com
 * Twitter - [@gustasvs](https://twitter.com/gustasvs)
-* Youtube - [gustasvs](https://www.youtube.com/gustasvs)
+* Youtube - [youtube.com/gustasvs](https://www.youtube.com/gustasvs)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
